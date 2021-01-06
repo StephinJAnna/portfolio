@@ -1,0 +1,53 @@
+body {
+    background-color: chartreuse;
+}
+
+#Deva {
+    width: 300px;
+    height: 300px;
+}
+
+.DD {
+    margin: 30px;
+}
+
+#LOK {
+    width: 300px;
+    height: 300px;
+}
+
+#LOKNATH {
+    width: 300px;
+    height: 300px;
+}
+
+#DEV {
+    width: 300px;
+    height: 300px;
+}
+
+H1 {
+    font-size: 37px;
+    font-family: 'Charmonman', cursive;
+    color: orangered;
+}
+.blink{
+    animation: blink 2s linear infinite;
+}
+@keyframes blink{
+    0%{opacity: 0;}
+    50%{opacity: 0.5;}
+    100%{opacity: 1;}
+}
+
+font-family: 'Charmonman', cursive;
+    color: orangered;
+}
+#sss{
+    width: 300px;
+    height:450px;
+}
+#apps{
+    width: 300px;
+    height: 300px;
+}
